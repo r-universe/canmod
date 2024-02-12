@@ -1,5 +1,12 @@
 [
   {
+    "package": "iidda",
+    "url": "https://github.com/canmod/iidda-tools",
+    "via": ["iidda.api"],
+    "subdir": "R/iidda",
+    "from": "iidda.api"
+  },
+  {
     "package": "macpan2helpers",
     "url": "https://github.com/canmod/macpan2helpers",
     "via": ["macpan2"],
