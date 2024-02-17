@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/canmod/canmod.r-universe.dev
 	branch = HEAD
+[submodule "macpan2"]
+	path = macpan2
+	url = https://github.com/canmod/macpan2
+[submodule "macpan2helpers"]
+	path = macpan2helpers
+	url = https://github.com/canmod/macpan2helpers
+[submodule "oor"]
+	path = oor
+	url = https://github.com/canmod/oor
+[submodule "rapiclient"]
+	path = rapiclient
+	url = https://github.com/canmod/rapiclient
