@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/canmod/canmod.r-universe.dev
 	branch = HEAD
+[submodule "iidda"]
+	path = iidda
+	url = https://github.com/canmod/iidda-tools
+	subdir = R/iidda
+[submodule "iidda.api"]
+	path = iidda.api
+	url = https://github.com/canmod/iidda-tools
+	subdir = R/iidda.api
 [submodule "macpan2"]
 	path = macpan2
 	url = https://github.com/canmod/macpan2
