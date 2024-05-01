@@ -2,7 +2,7 @@
   {
     "package": "iidda",
     "url": "https://github.com/canmod/iidda-tools",
-    "via": ["iidda.analysis"],
+    "via": ["iidda.analysis", "iidda.api"],
     "subdir": "R/iidda",
     "from": "iidda.analysis"
   },
