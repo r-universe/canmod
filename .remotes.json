@@ -2,8 +2,22 @@
   {
     "package": "iidda",
     "url": "https://github.com/canmod/iidda-tools",
+    "via": ["iidda.analysis"],
+    "subdir": "R/iidda",
+    "from": "iidda.analysis"
+  },
+  {
+    "package": "iidda",
+    "url": "https://github.com/canmod/iidda-tools",
     "via": ["iidda.api"],
     "subdir": "R/iidda",
     "from": "iidda.api"
+  },
+  {
+    "package": "iidda.api",
+    "url": "https://github.com/canmod/iidda-tools",
+    "via": ["iidda.analysis"],
+    "subdir": "R/iidda.api",
+    "from": "iidda.analysis"
   }
 ]
