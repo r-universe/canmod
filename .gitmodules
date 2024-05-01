@@ -6,6 +6,10 @@
 	path = iidda
 	url = https://github.com/canmod/iidda-tools
 	subdir = R/iidda
+[submodule "iidda.analysis"]
+	path = iidda.analysis
+	url = https://github.com/canmod/iidda-tools
+	subdir = R/iidda.analysis
 [submodule "iidda.api"]
 	path = iidda.api
 	url = https://github.com/canmod/iidda-tools
