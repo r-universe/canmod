@@ -19,5 +19,11 @@
     "via": ["iidda.analysis"],
     "subdir": "R/iidda.api",
     "from": "iidda.analysis"
+  },
+  {
+    "package": "rapiclient",
+    "url": "https://github.com/canmod/rapiclient",
+    "via": ["iidda.api"],
+    "from": "iidda.api"
   }
 ]
