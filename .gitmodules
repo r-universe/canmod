@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/canmod/canmod.r-universe.dev
 	branch = HEAD
+[submodule "LBoM.tools"]
+	path = LBoM.tools
+	url = https://github.com/canmod/LBoM.tools
 [submodule "iidda"]
 	path = iidda
 	url = https://github.com/canmod/iidda-tools
