@@ -21,6 +21,18 @@
     "from": "iidda.analysis"
   },
   {
+    "package": "macpan2helpers",
+    "url": "https://github.com/canmod/macpan2helpers",
+    "via": ["macpan2"],
+    "from": "macpan2"
+  },
+  {
+    "package": "oor",
+    "url": "https://github.com/canmod/oor",
+    "via": ["macpan2"],
+    "from": "macpan2"
+  },
+  {
     "package": "rapiclient",
     "url": "https://github.com/canmod/rapiclient",
     "via": ["iidda.analysis", "iidda.api"],
