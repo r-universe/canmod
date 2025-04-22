@@ -9,6 +9,13 @@
   {
     "package": "iidda",
     "url": "https://github.com/canmod/iidda-tools",
+    "via": ["iidda.api"],
+    "subdir": "R/iidda",
+    "from": "iidda.api"
+  },
+  {
+    "package": "iidda",
+    "url": "https://github.com/canmod/iidda-tools",
     "via": ["macpan2", "iidda.api"],
     "subdir": "R/iidda",
     "from": "macpan2"
