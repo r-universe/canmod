@@ -9,13 +9,6 @@
   {
     "package": "iidda",
     "url": "https://github.com/canmod/iidda-tools",
-    "via": ["iidda.api"],
-    "subdir": "R/iidda",
-    "from": "iidda.api"
-  },
-  {
-    "package": "iidda",
-    "url": "https://github.com/canmod/iidda-tools",
     "via": ["macpan2", "iidda.api"],
     "subdir": "R/iidda",
     "from": "macpan2"
@@ -51,12 +44,6 @@
     "url": "https://github.com/canmod/rapiclient",
     "via": ["iidda.analysis", "iidda.api"],
     "from": "iidda.analysis"
-  },
-  {
-    "package": "rapiclient",
-    "url": "https://github.com/canmod/rapiclient",
-    "via": ["iidda.api"],
-    "from": "iidda.api"
   },
   {
     "package": "rapiclient",
