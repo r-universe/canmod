@@ -2,7 +2,7 @@
   {
     "package": "iidda",
     "url": "https://github.com/canmod/iidda-tools",
-    "via": ["iidda.analysis", "iidda.api"],
+    "via": ["iidda.analysis"],
     "subdir": "R/iidda",
     "from": "iidda.analysis"
   },
@@ -38,12 +38,6 @@
     "url": "https://github.com/canmod/oor",
     "via": ["macpan2"],
     "from": "macpan2"
-  },
-  {
-    "package": "rapiclient",
-    "url": "https://github.com/canmod/rapiclient",
-    "via": ["iidda.analysis", "iidda.api"],
-    "from": "iidda.analysis"
   },
   {
     "package": "rapiclient",
