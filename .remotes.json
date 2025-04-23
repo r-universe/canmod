@@ -45,11 +45,5 @@
     "url": "https://github.com/canmod/oor",
     "via": ["macpan2"],
     "from": "macpan2"
-  },
-  {
-    "package": "rapiclient",
-    "url": "https://github.com/canmod/rapiclient",
-    "via": ["macpan2", "iidda.api"],
-    "from": "macpan2"
   }
 ]

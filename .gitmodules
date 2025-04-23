@@ -26,7 +26,3 @@
 [submodule "oor"]
 	path = oor
 	url = https://github.com/canmod/oor
-[submodule "rapiclient"]
-	path = rapiclient
-	url = https://github.com/canmod/rapiclient
-	registered = false
